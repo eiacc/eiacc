@@ -1,6 +1,6 @@
 # Ei
 
-**`An Indie Frontend Developer, gradually navigating the intricate landscape of Backend Development. I love tackling complex problems, it deepen my understanding.`**
+**`A passionate Indie Frontend Developer, expanding expertise into Backend Development. I thrive on solving complex challenges, which enhance my technical depth and understanding.`**
 
 ## Tech and Tooling
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
