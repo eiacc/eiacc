@@ -1,6 +1,6 @@
 # Ei
 
-**`A passionate Indie Frontend Developer, expanding expertise into Backend Development.`**
+**`A Developer.`**
 
 ## Tech and Tooling
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
