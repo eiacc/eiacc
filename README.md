@@ -1,6 +1,6 @@
 # Hello, I'm Ei 👋
 ![](https://img.shields.io/badge/10%25_Backend-90%25_Frontend-papayawhip)    
-A Frontend Developer based in the Philippines.
+A Developer based in the Philippines.
 
 ## 🌐 Quick Links    
 [Personal Website](https://matik.app)  
